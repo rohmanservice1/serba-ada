@@ -1,0 +1,63 @@
+Pulpstone Android B860H
+  Rilis Date 17042019
+========================
+Build Date 2018-08-15
+Version Base V81111324.0815
+
+Include :
+Full Root System
+Fix Bootloader 
+Mouse Pointer 1808
+Custom Logo and Bootanimation
+Settings and More Settings
+Dolby Atmos
+Pulpstone TVLauncher [base HPH TVLauncher]
+Google Cast Receiver
+Force Land Default Rotation Display
+Host by AdAway
+Remove Some Apps
+9191 Command
+Disable ZTEUpgrade
+Disable ota.zip
+Change Mebox to USeeTV Launcher [changes as cosmetic]
+UseeTV Compatible [Default Profile NON Pelanggan USeeTV]
+Automatically Erase Data
+Etc
+
+How To Flash
+--------------
+FLASH STB MENGGUNAKAN 
+PULPSTONE B860H FLASHER TOOL v2 atau
+PULPSTONE AMLOGIC UPDATE USB TOOL_v2.x
+
+Pre Flashing
+  ------------
+  - Install WorldCup Device Driver [bila belum install]
+  - Tahan tombol power lalu colokan kabel USB2USB Male
+    pada Port2 USB di STB
+    *Tanpa Adaptor STB B860H dari PT.Panggung
+    *Dengan Adaptor STB B860H dari PT.Industri
+  - Pilih scan, STB terdeteksi lanjutkan pilih flash
+  - Proses flashing membutuhkan waktu sekitar 2-7 menit
+    jika kurang dari itu = GAGAL
+
+  Post Flashing
+  -------------
+  - STB ON ke LCD TV
+  - Boot pertama kali akan blank hitam 1-3 menit
+  - Select a Home app, Pulpstone TVLauncher (Always)
+  - Buka Terminal Emulator, ketik
+    su   (enter) beri "grant permission"
+    9191
+  
+  
+  
+DONATION,
+Please consider donating 
+if you appreciate our work
+081949115657 [OVO / GO-PAY / DANA / XL]
+$pulpstone   [Jenius BTPN]
+  
+Regrads,
+FuadSalim 
+[fb.com/fuad.salim.drg] 
